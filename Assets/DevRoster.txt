@@ -1,0 +1,63 @@
+#Fill in the sign in sheet with your name and chosen game
+
+=========================
+Wesley Morford
+Game: Missile Command
+=========================
+Arie Eskinazi
+Game: Donkey kong
+=========================
+Chris Kondo
+Game: Dig Dug
+=========================
+Nathan Ilescas
+Game: Space Invaders
+=========================
+Brandon Chang
+Game: Tron
+=========================
+Greg Andersson
+Game: Joust
+=========================
+Zella Stewart
+Game: Frogger
+=========================
+Christopher Pillot-Sampson
+Game: Galaga
+=========================
+Jessica Browning
+Game: Centipede
+=========================
+Andrei Trubitsyn
+Game: Space Invaders
+=========================
+Casey O'Neal
+Game: Space Invaders
+=========================
+Roman Gutierrez
+Game: Contra
+=========================
+Joshua Dishong
+Game: Galaga
+=========================
+Matt Keefer
+Game: Donkey Kong
+=========================
+Sam Engen
+Game: 1942
+=========================
+Kevin Mar
+Game: Asteroids
+=========================
+Meghan Lee
+Game: Pac-Man
+=========================
+Cody Weiss
+Game: Pac-Man
+=========================
+Nicolas Pelletier
+Game: Track and Field
+=========================
+Brendan O'Hara
+Game: Kung Fu
+=========================

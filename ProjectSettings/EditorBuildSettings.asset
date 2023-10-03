@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/ClassicArcade/Scenes/MainMenu.unity
+    guid: 1b2511dd7bfdc9846b10dbb79b1c7df3
+  - enabled: 0
+    path: Assets/NineteenFortyTwo/Scenes/_1942_Level1.unity
+    guid: f6f5328a9f232154280fd1c40e40b3cc
+  - enabled: 0
+    path: Assets/NineteenFortyTwo/Scenes/_1942_GameOver.unity
+    guid: e7a8c05dafd92e347bb4425d713f527e
+  - enabled: 0
+    path: Assets/NineteenFortyTwo/Scenes/_1942_Title.unity
+    guid: c37ce623ec2259a43bbd8c34a17a0697
+  - enabled: 0
+    path: Assets/Asteroids/Scenes/Asteroids_TitleScreen.unity
+    guid: f6fb7c58a8c6bd34ab9f53e7a0d9439d
+  - enabled: 0
+    path: Assets/Asteroids/Scenes/Asteroids_Game.unity
+    guid: 5375ff26f11e94143b99848547310e53
+  - enabled: 0
+    path: Assets/Asteroids/Scenes/Asteroids_EndScreen.unity
+    guid: d4b485b3b60ce444eba1c147019dfe49
+  - enabled: 0
+    path: Assets/Pac-Man/Scenes/PacMan_TitleScreen.unity
+    guid: 87b900859eb4d7c4498352d27c186ad8
+  - enabled: 0
+    path: Assets/Pac-Man/Scenes/PacMan_GameScene_01.unity
+    guid: 41eb468be7aa4de43af6344ee5f9f0bf
+  - enabled: 0
+    path: Assets/Pac-Man/Scenes/PacMan_EndScene.unity
+    guid: 5dca9b1f0fbce5340a7c40adcd57d002
+  - enabled: 0
+    path: Assets/Ms. Pac-Man/Scenes/Ms-Pacman-EndScene.unity
+    guid: 0933f3261a60a5244be269f9df45f9c0
+  - enabled: 0
+    path: Assets/Ms. Pac-Man/Scenes/Ms-Pacman-Game.unity
+    guid: 2706b4d99a0019d49970e7db5ab5927e
+  - enabled: 0
+    path: Assets/Ms. Pac-Man/Scenes/Ms-Pacman-OpeningScene.unity
+    guid: 5a7eaf6bbc510a849bd6fa8666a65b49
+  - enabled: 1
+    path: Assets/Track and Field/Scenes/Track_Game Menu.unity
+    guid: 521290caf1897484b8923f894d74060f
+  - enabled: 1
+    path: Assets/Track and Field/Scenes/Track_Level Dash.unity
+    guid: 88f05c8a6b1d68244afb7f5b25d8031a
+  - enabled: 1
+    path: Assets/Track and Field/Scenes/Track_Level Hurdles.unity
+    guid: c09c3895c5a890843a262324f591f034
+  - enabled: 1
+    path: Assets/Track and Field/Scenes/Track_Game Score.unity
+    guid: 9c0cb7a9077a22c409b3d15f1655d4a1
+  - enabled: 1
+    path: Assets/Track and Field/Scenes/Track_Game Over.unity
+    guid: 69ddad050d5473f4f995fea7356ea23e
+  - enabled: 0
+    path: Assets/MissileCommand/Scenes/MissileStartScreen.unity
+    guid: 70833cfd5f58dca4c885b5a9bdffb31f
+  - enabled: 0
+    path: Assets/MissileCommand/Scenes/MissileLevel01.unity
+    guid: d017820e73f7b214fb09986a12e6558c
+  - enabled: 0
+    path: Assets/MissileCommand/Scenes/MissileEndScreen.unity
+    guid: ec837804bf9e5144db62424c5244dd6e
+  - enabled: 0
+    path: Assets/KungFu/Scenes/KungFuOpeningScene.unity
+    guid: 9593832898af3e343854ff50fa346a8e
+  - enabled: 0
+    path: Assets/KungFu/Scenes/KungFuLevel1.unity
+    guid: 502913f9f962c7d4fbfc273dfed6f0aa
+  - enabled: 0
+    path: Assets/KungFu/Scenes/KungFuGameOver.unity
+    guid: 88484b041346daf49aadca1c1a44b7ae
+  m_configObjects: {}

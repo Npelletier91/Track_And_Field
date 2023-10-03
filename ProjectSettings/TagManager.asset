@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SceneLoader
+  - Projectile
+  - Obstacle
+  - Building
+  - Ground
+  - Enemy
+  - Collectable
+  - Effect
+  - NPC
+  - Enviorment
+  - Destroyable
+  - Explosion
+  - Gibs
+  - Wall
+  - Boundary
+  - Boundry
+  - Node
+  - GhostNode
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcessing
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - PlayerProjectile
+  - EnemyProjectile
+  - Projectile
+  - IgnoreProjectile
+  - PlayerBarrier
+  - EnemyBarrier
+  - Barrier
+  - Environment
+  - Decoration
+  - Collectible
+  - Destroyable
+  - Effects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4121450577
+    locked: 0
+  - name: Bullet
+    uniqueID: 1689051775
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 2980003277
+    locked: 0
+  - name: 
+    uniqueID: 2828900601
+    locked: 0
+  - name: MsPacman
+    uniqueID: 1677885745
+    locked: 0
